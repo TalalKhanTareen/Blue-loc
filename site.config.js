@@ -1,7 +1,7 @@
 window.KINGDOM_CONFIG = {
   siteName: "Blue-loc",
   siteNameJa: "Blue-loc",
-  descriptionJa: "Blue-loc latest manga and chapters.",
+  descriptionJa: "You can read the latest chapters of Blue-loc.",
   defaultLanguage: "English",
   languages: [
     {
