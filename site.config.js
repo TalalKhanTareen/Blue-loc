@@ -1,16 +1,16 @@
 window.KINGDOM_CONFIG = {
-  siteName: "One Piece Raw",
-  siteNameJa: "ワンピース",
-  descriptionJa: "ワンピース最新話を読むことができます。",
-  defaultLanguage: "Japanese",
+  siteName: "Blue-loc",
+  siteNameJa: "Blue-loc",
+  descriptionJa: "Blue-loc latest manga and chapters.",
+  defaultLanguage: "English",
   languages: [
-    {
-      code: "ja",
-      name: "日本語"
-    },
     {
       code: "en",
       name: "English"
+    },
+    {
+      code: "ja",
+      name: "日本語"
     }
   ]
 };
