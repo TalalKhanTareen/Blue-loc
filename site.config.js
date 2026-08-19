@@ -1,7 +1,7 @@
 window.KINGDOM_CONFIG = {
-  siteName: "Kingdom",
-  siteNameJa: "キングダム",
-  descriptionJa: "キングダム最新話を読むことができます。",
+  siteName: "One Piece Raw",
+  siteNameJa: "ワンピース",
+  descriptionJa: "ワンピース最新話を読むことができます。",
   defaultLanguage: "Japanese",
   languages: [
     {
